@@ -1,0 +1,9 @@
+c:\users\chrisk\documents\visual studio 2012\Projects\OpenAndEditExcel\OpenAndEditExcel\bin\Debug\OpenAndEditExcel.exe.config
+c:\users\chrisk\documents\visual studio 2012\Projects\OpenAndEditExcel\OpenAndEditExcel\bin\Debug\OpenAndEditExcel.exe
+c:\users\chrisk\documents\visual studio 2012\Projects\OpenAndEditExcel\OpenAndEditExcel\bin\Debug\OpenAndEditExcel.pdb
+c:\users\chrisk\documents\visual studio 2012\Projects\OpenAndEditExcel\OpenAndEditExcel\obj\Debug\OpenAndEditExcel.csprojResolveAssemblyReference.cache
+c:\users\chrisk\documents\visual studio 2012\Projects\OpenAndEditExcel\OpenAndEditExcel\obj\Debug\OpenAndEditExcel.Form1.resources
+c:\users\chrisk\documents\visual studio 2012\Projects\OpenAndEditExcel\OpenAndEditExcel\obj\Debug\OpenAndEditExcel.Properties.Resources.resources
+c:\users\chrisk\documents\visual studio 2012\Projects\OpenAndEditExcel\OpenAndEditExcel\obj\Debug\OpenAndEditExcel.csproj.GenerateResource.Cache
+c:\users\chrisk\documents\visual studio 2012\Projects\OpenAndEditExcel\OpenAndEditExcel\obj\Debug\OpenAndEditExcel.exe
+c:\users\chrisk\documents\visual studio 2012\Projects\OpenAndEditExcel\OpenAndEditExcel\obj\Debug\OpenAndEditExcel.pdb
