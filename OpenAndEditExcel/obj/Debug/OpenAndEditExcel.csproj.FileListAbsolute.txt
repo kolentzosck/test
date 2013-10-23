@@ -7,3 +7,6 @@ c:\users\chrisk\documents\visual studio 2012\Projects\OpenAndEditExcel\OpenAndEd
 c:\users\chrisk\documents\visual studio 2012\Projects\OpenAndEditExcel\OpenAndEditExcel\obj\Debug\OpenAndEditExcel.csproj.GenerateResource.Cache
 c:\users\chrisk\documents\visual studio 2012\Projects\OpenAndEditExcel\OpenAndEditExcel\obj\Debug\OpenAndEditExcel.exe
 c:\users\chrisk\documents\visual studio 2012\Projects\OpenAndEditExcel\OpenAndEditExcel\obj\Debug\OpenAndEditExcel.pdb
+C:\Development\kolentzos\test\OpenAndEditExcel\bin\Debug\OpenAndEditExcel.exe.config
+C:\Development\kolentzos\test\OpenAndEditExcel\obj\Debug\OpenAndEditExcel.exe
+C:\Development\kolentzos\test\OpenAndEditExcel\obj\Debug\OpenAndEditExcel.pdb
