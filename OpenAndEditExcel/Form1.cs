@@ -22,9 +22,7 @@ namespace OpenAndEditExcel
         {
             MainFunction();
         }
-        /// <summary>
-        /// 
-        /// </summary>
+
         private void MainFunction()
         {
             Excel.Application excelApp = null;
